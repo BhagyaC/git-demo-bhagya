@@ -1,3 +1,1 @@
-# git-demo-bhagya
-All practices related to DES course!
-edited again
+# This document was modified by Stefany 
