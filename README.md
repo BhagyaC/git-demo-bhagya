@@ -1,18 +1,5 @@
-# git-demo-bhagya
-All practices related to DES course!
-edited
-edited again
+# Assignment 2
 
-
--- new edits
-
-
-## I am Rishad, modifying this doc.
-
-# Erick Rafael Cervera Ceballos
-
-
-I am Diana 
-
+https://education.launchcode.org/intro-to-professional-web-dev/chapters/unit-testing/hello-jasmine.html
 
 
